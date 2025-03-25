@@ -136,3 +136,9 @@ myvariable is the variable name
 dynamic variable 
 
 can accept different data types
+
+# Thursday March 21st 2025
+
+StandUp
+
+% Modulus returns the remainder
